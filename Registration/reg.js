@@ -1,5 +1,4 @@
 const form = document.querySelector("form");
-// const registrationForm = document.getElementById("registrationForm");
 const firstNameInput = document.getElementById("formGroupExampleInput");
 const lastNameInput = document.getElementById("formGroupExampleInput2");
 const emailInput = document.getElementById("exampleInputEmail1");
